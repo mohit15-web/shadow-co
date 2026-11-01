@@ -4,6 +4,7 @@ import { CartProvider } from "@/lib/cart-context";
 import { Nav } from "@/components/Nav";
 import { Footer } from "@/components/Footer";
 import { IntroOverlay } from "@/components/IntroOverlay";
+import { ToastProvider } from "@/components/Toast";
 import "./globals.css";
 
 const unbounded = Unbounded({
@@ -37,10 +38,12 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
     <html lang="en" className={`${unbounded.variable} ${onest.variable}`}>
       <body className="flex min-h-screen flex-col bg-bg text-ink">
         <CartProvider>
-          <IntroOverlay />
-          <Nav />
-          <main className="flex-1">{children}</main>
-          <Footer />
+          <ToastProvider>
+            <IntroOverlay />
+            <Nav />
+            <main className="flex-1">{children}</main>
+            <Footer />
+          </ToastProvider>
         </CartProvider>
       </body>
     </html>

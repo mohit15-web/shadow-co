@@ -4,18 +4,21 @@ import { useState } from "react";
 import { useCart } from "@/lib/cart-context";
 import { formatPrice, SIZE_RUN_NOTE, type Product } from "@/lib/products";
 import { QuantitySelector } from "./QuantitySelector";
+import { useToast } from "./Toast";
 
 export function ProductPurchasePanel({ product }: { product: Product }) {
   const [size, setSize] = useState<string | null>(null);
   const [quantity, setQuantity] = useState(1);
   const [added, setAdded] = useState(false);
   const { addItem } = useCart();
+  const toast = useToast();
 
   function handleAdd() {
     if (!size) return;
     addItem(product.slug, size, quantity);
     setAdded(true);
     setTimeout(() => setAdded(false), 1800);
+    toast(`${product.workingTitle} added to your bag — size ${size}`);
   }
 
   return (
