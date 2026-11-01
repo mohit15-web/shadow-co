@@ -1,0 +1,1490 @@
+{
+ "url": "http://localhost:4310/chapters/the-unheard",
+ "at": "2026-10-31T14:41:22.024Z",
+ "allow": [
+  "numbering",
+  "palette-cream",
+  "pinned-over-picture",
+  "no-footage",
+  "few-pictures",
+  "focal-point",
+  "grey-body",
+  "font-count",
+  "empty-screens"
+ ],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 8,
+   "filled": [
+    0.71,
+    0.17,
+    0.68,
+    0.81,
+    0.25,
+    0.37,
+    0.96,
+    0.93
+   ],
+   "motion": {
+    "elements": 11,
+    "css": 5,
+    "transitions": 0,
+    "scripted": 6,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 6780,
+     "screens": 7.5,
+     "words": 188,
+     "img": 4,
+     "video": 0,
+     "canvas": 0,
+     "svg": 3,
+     "sections": 5,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 4,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "image?url=%2Fimages%2Fatmosphere%2F826.jpg&w=192",
+      "image?url=%2Fimages%2Fatmosphere%2F322.jpg&w=256",
+      "image?url=%2Fimages%2Fatmosphere%2F344.jpg&w=192",
+      "image?url=%2Fimages%2Fatmosphere%2F188.jpg&w=384"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "THE UNHEARD",
+     "words": 2,
+     "chars": 11,
+     "lines": 2,
+     "size": 136,
+     "vw": 9.4,
+     "font": "Unbounded",
+     "weight": 800,
+     "tracking": -0.03,
+     "leading": 0.88,
+     "upper": true,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.53,
+     "top": 331,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "THE UNHEARD",
+     "words": 2,
+     "lines": 2,
+     "size": 136,
+     "font": "Unbounded"
+    },
+    "headings": [
+     {
+      "text": "THE UNHEARD",
+      "words": 2,
+      "chars": 11,
+      "lines": 2,
+      "size": 136,
+      "vw": 9.4,
+      "font": "Unbounded",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 0.88,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.53,
+      "top": 331,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "THE THREE DESIGNS",
+      "words": 3,
+      "chars": 17,
+      "lines": 1,
+      "size": 64,
+      "vw": 4.4,
+      "font": "Unbounded",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 0.9,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 2513,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "ONE STATEMENT.",
+      "words": 2,
+      "chars": 14,
+      "lines": 1,
+      "size": 64,
+      "vw": 4.4,
+      "font": "Unbounded",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 0.9,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.63,
+      "top": 5372,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "JOIN THE CHAPTER.",
+      "words": 3,
+      "chars": 17,
+      "lines": 2,
+      "size": 64,
+      "vw": 4.4,
+      "font": "Unbounded",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.53,
+      "top": 6009,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "SHADOW CO.",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 216,
+      "vw": 15,
+      "font": "Unbounded",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1,
+      "top": 6564,
+      "tag": "div",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 5,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 3,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Onest",
+       "share": 0.88,
+       "mono": false
+      },
+      {
+       "family": "Unbounded",
+       "share": 0.1,
+       "mono": false
+      },
+      {
+       "family": "ui-monospace",
+       "share": 0.02,
+       "mono": false
+      }
+     ],
+     "familyCount": 3,
+     "sizes": [
+      14,
+      19,
+      26,
+      64,
+      136,
+      216
+     ],
+     "sizeCount": 6,
+     "notLoaded": [],
+     "body": {
+      "font": "Onest",
+      "size": 19,
+      "leading": 1.55,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 17.6
+     },
+     "measureChars": 47,
+     "max": {
+      "size": 216,
+      "vw": 15,
+      "font": "Unbounded",
+      "text": "Shadow Co."
+     },
+     "monoShare": 0.02,
+     "monoProseShare": 0,
+     "monoFamilies": [
+      "ui-monospace"
+     ],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.41,
+     "centerShare": 0.03,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [
+     {
+      "text": "Chapter 001",
+      "size": 14,
+      "top": 56
+     }
+    ],
+    "color": {
+     "bodyBg": "#080808",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.03
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#080808",
+       "top": 0,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.03
+       }
+      },
+      {
+       "color": "#111111",
+       "top": 2635,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.07
+       }
+      },
+      {
+       "color": "#f2f0ea",
+       "top": 5178,
+       "hsl": {
+        "h": 45,
+        "s": 0.24,
+        "l": 0.93
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#f2f0ea",
+       "share": 0.46
+      },
+      {
+       "color": "#080808",
+       "share": 0.33
+      },
+      {
+       "color": "#858585",
+       "share": 0.13
+      },
+      {
+       "color": "#090909",
+       "share": 0.09
+      }
+     ],
+     "button": {
+      "bg": "#080808",
+      "hsl": {
+       "h": 0,
+       "s": 0,
+       "l": 0.03
+      },
+      "fg": "#f2f0ea"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 2,
+     "inHero": 1,
+     "radius": 0,
+     "height": 56,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 2,
+     "heroLabels": [
+      "SEE THE DESIGNS ↓"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 3,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.9
+     }
+    ],
+    "nav": {
+     "links": 1,
+     "fixed": true,
+     "height": 62,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "unbounded",
+     "onest",
+     "onest fallback"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 6780,
+    "margins": {
+     "left": 32,
+     "right": 32
+    },
+    "sections": [
+     {
+      "sel": "main.flex-1",
+      "tag": "main",
+      "top": 0,
+      "height": 5897,
+      "words": 127,
+      "media": 7,
+      "middle": 0,
+      "heading": {
+       "text": "THE UNHEARD",
+       "size": 136,
+       "tag": "h1"
+      },
+      "left": 32,
+      "right": 32,
+      "textLeft": 32,
+      "textRight": 32,
+      "fullBleed": true,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "footer.relative.overflow-hidden",
+      "tag": "footer",
+      "top": 5897,
+      "height": 883,
+      "words": 56,
+      "media": 0,
+      "middle": 489,
+      "heading": {
+       "text": "Join the chapter.",
+       "size": 64,
+       "tag": "h2"
+      },
+      "left": 52,
+      "right": 52,
+      "textLeft": 0,
+      "textRight": 0,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "THE UNHEARD",
+      "size": 136,
+      "top": 331,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 32,
+      "n": 7
+     },
+     {
+      "x": 625,
+      "n": 3
+     },
+     {
+      "x": 267,
+      "n": 1
+     },
+     {
+      "x": 853,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 12,
+    "bodySize": 26,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0.07,
+    "voidBox": {
+     "x": 0,
+     "y": 840,
+     "w": 1440,
+     "h": 60
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 6,
+   "filled": [
+    0.62,
+    0.34,
+    0.54,
+    0.37,
+    0.96,
+    0.94
+   ],
+   "motion": {
+    "elements": 11,
+    "css": 5,
+    "transitions": 0,
+    "scripted": 6,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 5192,
+     "screens": 5.1,
+     "words": 188,
+     "img": 4,
+     "video": 0,
+     "canvas": 0,
+     "svg": 3,
+     "sections": 5,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 3,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "image?url=%2Fimages%2Fatmosphere%2F826.jpg&w=828",
+      "image?url=%2Fimages%2Fatmosphere%2F344.jpg&w=828",
+      "image?url=%2Fimages%2Fatmosphere%2F188.jpg&w=256"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "THE UNHEARD",
+     "words": 2,
+     "chars": 11,
+     "lines": 2,
+     "size": 89,
+     "vw": 11.6,
+     "font": "Unbounded",
+     "weight": 800,
+     "tracking": -0.03,
+     "leading": 0.88,
+     "upper": true,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.92,
+     "top": 535,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "THE UNHEARD",
+     "words": 2,
+     "lines": 2,
+     "size": 89,
+     "font": "Unbounded"
+    },
+    "headings": [
+     {
+      "text": "THE UNHEARD",
+      "words": 2,
+      "chars": 11,
+      "lines": 2,
+      "size": 89,
+      "vw": 11.6,
+      "font": "Unbounded",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 0.88,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 535,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "THE THREE DESIGNS",
+      "words": 3,
+      "chars": 17,
+      "lines": 1,
+      "size": 45.4,
+      "vw": 5.9,
+      "font": "Unbounded",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 0.9,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 2276,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "ONE STATEMENT.",
+      "words": 2,
+      "chars": 14,
+      "lines": 2,
+      "size": 45.4,
+      "vw": 5.9,
+      "font": "Unbounded",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 0.9,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.59,
+      "top": 3994,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "JOIN THE CHAPTER.",
+      "words": 3,
+      "chars": 17,
+      "lines": 2,
+      "size": 45.4,
+      "vw": 5.9,
+      "font": "Unbounded",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.51,
+      "top": 4558,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "SHADOW CO.",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 115.2,
+      "vw": 15,
+      "font": "Unbounded",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1,
+      "top": 5077,
+      "tag": "div",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 5,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 3,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Onest",
+       "share": 0.88,
+       "mono": false
+      },
+      {
+       "family": "Unbounded",
+       "share": 0.1,
+       "mono": false
+      },
+      {
+       "family": "ui-monospace",
+       "share": 0.02,
+       "mono": false
+      }
+     ],
+     "familyCount": 3,
+     "sizes": [
+      13,
+      18,
+      23,
+      45,
+      89,
+      115
+     ],
+     "sizeCount": 6,
+     "notLoaded": [],
+     "body": {
+      "font": "Onest",
+      "size": 23,
+      "leading": 1.38,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 17.6
+     },
+     "measureChars": 50,
+     "max": {
+      "size": 115.2,
+      "vw": 15,
+      "font": "Unbounded",
+      "text": "Shadow Co."
+     },
+     "monoShare": 0.02,
+     "monoProseShare": 0,
+     "monoFamilies": [
+      "ui-monospace"
+     ],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.41,
+     "centerShare": 0.03,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [
+     {
+      "text": "Chapter 001",
+      "size": 13.4,
+      "top": 56
+     }
+    ],
+    "color": {
+     "bodyBg": "#080808",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.03
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#080808",
+       "top": 0,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.03
+       }
+      },
+      {
+       "color": "#f2f0ea",
+       "top": 3895,
+       "hsl": {
+        "h": 45,
+        "s": 0.24,
+        "l": 0.93
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#f2f0ea",
+       "share": 0.46
+      },
+      {
+       "color": "#080808",
+       "share": 0.33
+      },
+      {
+       "color": "#858585",
+       "share": 0.13
+      },
+      {
+       "color": "#090909",
+       "share": 0.09
+      }
+     ],
+     "button": {
+      "bg": "#080808",
+      "hsl": {
+       "h": 0,
+       "s": 0,
+       "l": 0.03
+      },
+      "fg": "#f2f0ea"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 2,
+     "inHero": 1,
+     "radius": 0,
+     "height": 55,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 2,
+     "heroLabels": [
+      "SEE THE DESIGNS ↓"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 2,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.9
+     }
+    ],
+    "nav": {
+     "links": 1,
+     "fixed": true,
+     "height": 61,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "unbounded",
+     "unbounded fallback",
+     "onest",
+     "onest fallback"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 5192,
+    "margins": {
+     "left": 32,
+     "right": 32
+    },
+    "sections": [
+     {
+      "sel": "main.flex-1",
+      "tag": "main",
+      "top": 0,
+      "height": 4446,
+      "words": 127,
+      "media": 6,
+      "middle": 0,
+      "heading": {
+       "text": "THE UNHEARD",
+       "size": 89,
+       "tag": "h1"
+      },
+      "left": 32,
+      "right": 32,
+      "textLeft": 32,
+      "textRight": 50,
+      "fullBleed": true,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "footer.relative.overflow-hidden",
+      "tag": "footer",
+      "top": 4446,
+      "height": 746,
+      "words": 56,
+      "media": 0,
+      "middle": 116,
+      "heading": {
+       "text": "Join the chapter.",
+       "size": 45,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 61,
+      "textLeft": 0,
+      "textRight": 0,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "THE UNHEARD",
+      "size": 89,
+      "top": 535,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 32,
+      "n": 5
+     },
+     {
+      "x": 345,
+      "n": 3
+     },
+     {
+      "x": 155,
+      "n": 1
+     },
+     {
+      "x": 461,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 10,
+    "bodySize": 23,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 8,
+   "filled": [
+    0.69,
+    0.63,
+    0.57,
+    0.76,
+    0.31,
+    0.9,
+    0.93,
+    0.97
+   ],
+   "motion": {
+    "elements": 10,
+    "css": 5,
+    "transitions": 0,
+    "scripted": 5,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 6123,
+     "screens": 7.3,
+     "words": 188,
+     "img": 4,
+     "video": 0,
+     "canvas": 0,
+     "svg": 3,
+     "sections": 5,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 4,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "image?url=%2Fimages%2Fatmosphere%2F826.jpg&w=640",
+      "image?url=%2Fimages%2Fatmosphere%2F322.jpg&w=640",
+      "image?url=%2Fimages%2Fatmosphere%2F344.jpg&w=640",
+      "image?url=%2Fimages%2Fatmosphere%2F188.jpg&w=640"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "THE UNHEARD",
+     "words": 2,
+     "chars": 11,
+     "lines": 2,
+     "size": 62.5,
+     "vw": 16,
+     "font": "Unbounded",
+     "weight": 800,
+     "tracking": -0.03,
+     "leading": 0.88,
+     "upper": true,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.9,
+     "top": 416,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "THE UNHEARD",
+     "words": 2,
+     "lines": 2,
+     "size": 62.5,
+     "font": "Unbounded"
+    },
+    "headings": [
+     {
+      "text": "THE UNHEARD",
+      "words": 2,
+      "chars": 11,
+      "lines": 2,
+      "size": 62.5,
+      "vw": 16,
+      "font": "Unbounded",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 0.88,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 416,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "THE THREE DESIGNS",
+      "words": 3,
+      "chars": 17,
+      "lines": 2,
+      "size": 33.3,
+      "vw": 8.5,
+      "font": "Unbounded",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 0.9,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 2241,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "ONE STATEMENT.",
+      "words": 2,
+      "chars": 14,
+      "lines": 2,
+      "size": 33.3,
+      "vw": 8.5,
+      "font": "Unbounded",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 0.9,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 4407,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "JOIN THE CHAPTER.",
+      "words": 3,
+      "chars": 17,
+      "lines": 2,
+      "size": 33.3,
+      "vw": 8.5,
+      "font": "Unbounded",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 0.95,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 5301,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "SHADOW CO.",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 80,
+      "vw": 20.5,
+      "font": "Unbounded",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1,
+      "top": 6043,
+      "tag": "div",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 5,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 3,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Onest",
+       "share": 0.88,
+       "mono": false
+      },
+      {
+       "family": "Unbounded",
+       "share": 0.1,
+       "mono": false
+      },
+      {
+       "family": "ui-monospace",
+       "share": 0.02,
+       "mono": false
+      }
+     ],
+     "familyCount": 3,
+     "sizes": [
+      13,
+      17,
+      20,
+      33,
+      63,
+      80
+     ],
+     "sizeCount": 6,
+     "notLoaded": [],
+     "body": {
+      "font": "Onest",
+      "size": 20.3,
+      "leading": 1.38,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 17.6
+     },
+     "measureChars": 41,
+     "max": {
+      "size": 80,
+      "vw": 20.5,
+      "font": "Unbounded",
+      "text": "Shadow Co."
+     },
+     "monoShare": 0.02,
+     "monoProseShare": 0,
+     "monoFamilies": [
+      "ui-monospace"
+     ],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.41,
+     "centerShare": 0.03,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [
+     {
+      "text": "Chapter 001",
+      "size": 13,
+      "top": 40
+     }
+    ],
+    "color": {
+     "bodyBg": "#080808",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.03
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#080808",
+       "top": 0,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.03
+       }
+      },
+      {
+       "color": "#111111",
+       "top": 2365,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.07
+       }
+      },
+      {
+       "color": "#1b1b1b",
+       "top": 3008,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.11
+       }
+      },
+      {
+       "color": "#f2f0ea",
+       "top": 4311,
+       "hsl": {
+        "h": 45,
+        "s": 0.24,
+        "l": 0.93
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#f2f0ea",
+       "share": 0.46
+      },
+      {
+       "color": "#080808",
+       "share": 0.33
+      },
+      {
+       "color": "#858585",
+       "share": 0.13
+      },
+      {
+       "color": "#090909",
+       "share": 0.09
+      }
+     ],
+     "button": {
+      "bg": "#080808",
+      "hsl": {
+       "h": 0,
+       "s": 0,
+       "l": 0.03
+      },
+      "fg": "#f2f0ea"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 2,
+     "inHero": 1,
+     "radius": 0,
+     "height": 54,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 2,
+     "heroLabels": [
+      "SEE THE DESIGNS ↓"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 4,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.9
+     }
+    ],
+    "nav": {
+     "links": 1,
+     "fixed": true,
+     "height": 60,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "unbounded",
+     "onest",
+     "onest fallback"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 6123,
+    "margins": {
+     "left": 20,
+     "right": 20
+    },
+    "sections": [
+     {
+      "sel": "main.flex-1",
+      "tag": "main",
+      "top": 0,
+      "height": 5221,
+      "words": 125,
+      "media": 7,
+      "middle": 0,
+      "heading": {
+       "text": "THE UNHEARD",
+       "size": 63,
+       "tag": "h1"
+      },
+      "left": 20,
+      "right": 0,
+      "textLeft": 20,
+      "textRight": 0,
+      "fullBleed": true,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "footer.relative.overflow-hidden",
+      "tag": "footer",
+      "top": 5221,
+      "height": 902,
+      "words": 56,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Join the chapter.",
+       "size": 33,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 0,
+      "textRight": 0,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "THE UNHEARD",
+      "size": 63,
+      "top": 416,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 20,
+      "n": 10
+     }
+    ],
+    "leftBlocks": 10,
+    "bodySize": 20,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "WARN",
+   "id": "still-page",
+   "width": 1440,
+   "message": "Little motion: 11 element(s) moved while the page loaded and scrolled.",
+   "fix": "Give every section an entrance for its parts (not one fade of the whole block) and add one moving picture: a looping clip or a slow move on a photograph."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "/Users/mohit/Downloads/shadow-co/.taste-skill/vfinal_chapters_the-unheard/desktop-fold.jpg",
+   "pages": [
+    "/Users/mohit/Downloads/shadow-co/.taste-skill/vfinal_chapters_the-unheard/desktop-page-01.jpg",
+    "/Users/mohit/Downloads/shadow-co/.taste-skill/vfinal_chapters_the-unheard/desktop-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "/Users/mohit/Downloads/shadow-co/.taste-skill/vfinal_chapters_the-unheard/tablet-fold.jpg",
+   "pages": [
+    "/Users/mohit/Downloads/shadow-co/.taste-skill/vfinal_chapters_the-unheard/tablet-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "/Users/mohit/Downloads/shadow-co/.taste-skill/vfinal_chapters_the-unheard/mobile-fold.jpg",
+   "pages": [
+    "/Users/mohit/Downloads/shadow-co/.taste-skill/vfinal_chapters_the-unheard/mobile-page-01.jpg"
+   ],
+   "film": []
+  }
+ ]
+}

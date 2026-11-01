@@ -1,0 +1,13 @@
+{
+  "id": "session-1793453451388",
+  "startedAt": "2026-10-31T13:30:51.388Z",
+  "cwd": "/Users/mohit/Downloads/shadow-co",
+  "context": {},
+  "metrics": {
+    "edits": 105,
+    "commands": 0,
+    "tasks": 0,
+    "errors": 0
+  },
+  "restoredAt": "2026-10-31T13:47:34.921Z"
+}
